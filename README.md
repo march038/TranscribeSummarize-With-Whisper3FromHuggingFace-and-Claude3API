@@ -1,3 +1,5 @@
+# Transcribe and summarize local MP3 files with Whisper 3 Large from HuggingFace and Claude 3 #
+
 Hi!
 
 This script is designed to transcribe a local MP3 file using the Whisper 3 Large model from HuggingFace and then summarize the transcription result with Claude 3 Sonnet. 
